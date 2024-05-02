@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spaceProgram/static/css/main.ef43fe63.css",
+    "main.js": "/spaceProgram/static/js/main.00c3e08b.js",
+    "index.html": "/spaceProgram/index.html",
+    "main.ef43fe63.css.map": "/spaceProgram/static/css/main.ef43fe63.css.map",
+    "main.00c3e08b.js.map": "/spaceProgram/static/js/main.00c3e08b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef43fe63.css",
+    "static/js/main.00c3e08b.js"
+  ]
+}
